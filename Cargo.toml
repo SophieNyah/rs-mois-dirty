@@ -1,0 +1,10 @@
+[package]
+name = "rs-mois-dirty"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Provides a 'Dirty' struct that holds a value and a 'dirty' field that gets updated when the value is changed."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
